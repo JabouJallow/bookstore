@@ -1,10 +1,5 @@
 
-/**
- * the CD Class.
- *
- * @author alimaconde 
- * @version 1.1
- */
+
 public class CD extends Product {
 
     /**

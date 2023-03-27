@@ -1,8 +1,4 @@
-/**
- * this is the PremiumMember Class.
- * @author alimaconde 
- * @version 1.1
- */
+
 public class PremiumMember extends Member{
     /**
      * class attributes.

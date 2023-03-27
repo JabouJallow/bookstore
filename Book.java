@@ -1,8 +1,4 @@
-/**
- * the Book Class.
- * @author alimaconde 
- * @version 1.1
- */
+
 public class Book extends Product{
     
     /**

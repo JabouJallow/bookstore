@@ -1,9 +1,4 @@
 
-/**
- * this is BookStoreSpecification interface.
- * @author alimaconde 
- * @version 1.1
- */
 public interface BookStoreSpecification {
     
     /**

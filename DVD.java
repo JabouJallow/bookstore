@@ -1,8 +1,4 @@
-/**
- * this is the DVD Class.
- * @alimaconde author
- * @version 1.1
- */
+
 public class DVD extends Product{
     
     /**

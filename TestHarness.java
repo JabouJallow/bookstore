@@ -2,12 +2,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- * this is the TestHarness Class.
- *
- * @author alimaconde
- * @version 1.1
- */
 public class TestHarness {
 
     /**

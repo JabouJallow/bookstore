@@ -1,11 +1,6 @@
 
 import java.util.ArrayList;
 
-/**
- * this is the RegularMember Class.
- * @author alimaconde
- * @version 1.1
- */
 public class RegularMember extends Member{
     
     /**

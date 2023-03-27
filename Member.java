@@ -1,11 +1,6 @@
 
 import java.util.ArrayList;
 
-/**
- * this is the Member Class.
- * @author alimaconde 
- * @version 1.1
- */
 public abstract class Member {
     /**
      * class attributes.

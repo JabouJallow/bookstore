@@ -1,13 +1,6 @@
 
 import java.util.ArrayList;
 
-
-/**
- * the BookStore Class.
- *
- * @author alimaconde 
- * @version 1.1
- */
 public class BookStore implements BookStoreSpecification{
 
     /**
